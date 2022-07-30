@@ -1,0 +1,219 @@
+.icon-logo {
+    width: 90px;
+    height: 70px;
+}
+#navItem1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+#navItem2 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+#navItem3 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+#navItem4 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+#navItem5 {
+    color: #5442f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+#navItem6 {
+    color: #5442f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+#navItem7 {
+    color: #5442f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+#navItem8 {
+    color: #5442f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.astrology-logo {
+    width: 100px;
+    height: 100px;
+}
+.nav-icon-logo {
+    height: 30px;
+    width: 40px;
+}
+.heading {
+    font-size: 38px;
+}
+.custom-outline-button {
+    width: 140px;
+    height: 45px;
+    color: white;
+    background-color: #0b03fc;
+    border-width: 1px;
+    border-style: none;
+    border-radius: 8px;
+    text-align: center;
+    transition: 0.8s;
+}
+.about-section {
+    height: 85vh;
+    background-image: url("Images/astroimage.jpg");
+    background-size: cover;
+}
+.about-card {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.about-card-title {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.about-card-description {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: #7b8794;
+}
+.service-section {
+    background-color: white;
+}
+
+.service-section-heading {
+    font-family: "Roboto";
+    font-size: 44px;
+    font-weight: 700;
+    color: #183b56;
+}
+.service-image {
+    border-radius: 16px;
+    width: 100%;
+    height: 60%;
+}
+
+.service-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 10px;
+    text-align: center;
+}
+.service-card {
+    border-radius: 16px;
+    width: 100%;
+    height: 60%;
+}
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0000a;
+    border-width: 0;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.custom-button:hover {
+    background-color: rgb(82, 23, 219);
+}
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 120px;
+    height: 120px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 75px;
+}
+.form-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 36px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    color: rgb(24, 9, 160);
+    text-align: left;
+  }
+  
+  .error-message {
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
+  .form-control {
+    width: 500px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+  }
+  .button {
+    height: 50px;
+    width: 140px;
+    background-color: rgb(58, 58, 241);
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    border-style: none;
+  }
+  .aboutus-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 44px;
+    font-weight: bold;
+  }
+  .aboutus-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+  }
+ .aboutus-main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 44px;
+    font-weight: bold;
+ }
+ .aboutus-title-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+ }
+ .aboutus-description {
+    color: #185618;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+ }
